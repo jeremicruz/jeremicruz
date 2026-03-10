@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Jeremi Cruz
+I am interestes in Molecular Genetics and Bioinformatics
+
 <!--
 **jeremicruz/jeremicruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
